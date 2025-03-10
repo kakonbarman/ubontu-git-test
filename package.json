@@ -1,0 +1,21 @@
+{
+  "name": "ubontu-git-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kakonbarman/ubontu-git-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kakonbarman/ubontu-git-test/issues"
+  },
+  "homepage": "https://github.com/kakonbarman/ubontu-git-test#readme",
+  "description": ""
+}
